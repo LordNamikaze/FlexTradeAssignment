@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <SecurityModel Symbol="GGOO" Description="WPF,Inc" Type="Stock" Exchange="NSE"/>
+  <SecurityModel Symbol="FGOO" Description="WPF,Inc" Type="Stock" Exchange="BSE"/>
+  <SecurityModel Symbol="HGOO" Description="WPF,Inc" Type="Stock" Exchange="NSE"/>
+  <SecurityModel Symbol="JGOO" Description="WPF,Inc" Type="Stock" Exchange="NSE"/>
+  <SecurityModel Symbol="KGOO" Description="WPF,Inc" Type="Stock" Exchange="BSE"/>
+  <SecurityModel Symbol="LGOO" Description="WPF,Inc" Type="Stock" Exchange="BSE"/>
+  <SecurityModel Symbol="ZGOO" Description="WPF,Inc" Type="Stock" Exchange="NSE"/>
+  <SecurityModel Symbol="XGOO" Description="WPF,Inc" Type="Stock" Exchange="NSE"/>
+  <SecurityModel Symbol="CGOO" Description="WPF,Inc" Type="Stock" Exchange="NSE"/>
+  <SecurityModel Symbol="VGOO" Description="WPF,Inc" Type="Stock" Exchange="BSE"/>
+  <SecurityModel Symbol="BGOO" Description="WPF,Inc" Type="Stock" Exchange="BSE"/>
+  <SecurityModel Symbol="NGOO" Description="WPF,Inc" Type="Stock" Exchange="BSE"/>
+  <SecurityModel Symbol="MGOO" Description="WPF,Inc" Type="Stock" Exchange="NSE"/>
+  <SecurityModel Symbol="QGOO" Description="WPF,Inc" Type="Stock" Exchange="BSE"/>
+  <SecurityModel Symbol="WGOO" Description="WPF,Inc" Type="Stock" Exchange="BSE"/>
+</Items>
